@@ -8,7 +8,7 @@ Python 3.9 or later
 
 
 Installing
-Clone the repository: git clone https://github.com/yourusername/chatgpt_cli.git
+Clone the repository: git clone https://github.com/calumLaw/chatgpt_cli.git
 Navigate to the cloned directory: cd chatgpt_cli
 Install the required packages: pip install -r requirements.txt
 
