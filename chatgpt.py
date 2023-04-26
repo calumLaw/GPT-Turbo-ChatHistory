@@ -1,11 +1,8 @@
 import os
 import openai
 import json
-from dotenv import load_dotenv
 
-# Load the API key from the .env file
-load_dotenv()
-api_key = #API_KEY_HERE
+api_key = "API_KEY_HERE"
 
 # Initialize the OpenAI API client
 openai.api_key = api_key
