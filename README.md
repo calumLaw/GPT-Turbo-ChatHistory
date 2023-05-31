@@ -1,5 +1,5 @@
 # GPT-Turbo-ChatHistory
-ChatGPT CLI
+ChatGPT CLI // Calum Lawrence
 This is a command-line interface (CLI) for using the OpenAI GPT-3.5 Turbo model. It allows you to have a conversation with the GPT-3.5 Turbo model using natural language.
 
 Getting Started
